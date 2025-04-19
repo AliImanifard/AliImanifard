@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Imanifard</h1>
-<h3 align="center">A Diligent Software Engineering and Artificial Intelligence Master's student, a Curious Scientific Researcher, a Science Buff and a Passionate Mobile Developer!!!</h3>
+<h3 align="center">A Diligent Computer Science Master's student, a Curious Scientific Researcher, a Science Buff and a Passionate LLM Agents Developer!!!</h3>
 
-- 👨‍💻 All of my big (just BIG) projects are available at [https://github.com/AliImanifard](https://github.com/AliImanifard)
+- 👨‍💻 All of selected projects are available at [https://github.com/AliImanifard](https://github.com/AliImanifard)
 
-- 💬 Ask me about **Java, Android Advanced Development and etc.**
+- 💬 Ask me about **NLP, LLM, AI Agents, Java, and etc.**
 
 - 📫 How to reach me **aliimanifard13@gmail.com**
 
