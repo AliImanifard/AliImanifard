@@ -1,9 +1,22 @@
 <h1 align="center">Greetings 👋, I'm Ali Imanifard</h1>
 <h3 align="center">A dedicated Computer Science Master’s student, an inquisitive scientific researcher, a science enthusiast, and a passionate developer of LLM-based agents.</h3>
 
-- 👨‍💻 View all of my selected projects at [https://github.com/AliImanifard](https://github.com/AliImanifard)
+- 🧑‍🔬 View my scientific research papers:
+  <a href="https://scholar.google.com/citations?user=NRn57D8AAAAJ&hl=en" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Ali-Imanifard" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" height="30" width="40" />
+  </a>
+  <a href="https://orcid.org/0009-0009-1178-9135" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" height="30" width="40" />
+  </a>
 
-- 💬 Ask me about **NLP, LLM, AI Agents, Java, and more.**
+- 👨‍💻 View all of my selected projects:
+   <a href="https://github.com/AliImanifard" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+- 💬 Ask me about **NLP, LLM, AI Agents, Java, and more**.
 
 - 📫 You can reach me at **aliimanifard13@gmail.com**
 
